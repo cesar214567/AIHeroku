@@ -1,5 +1,5 @@
 
-FROM python:3.8-slim
+FROM python:3.9.13-slim
 ENV PYTHONUNBUFFERED=TRUE
 RUN pip --no-cache-dir install pipenv
 WORKDIR /app
