@@ -2,13 +2,10 @@ import numpy as np
 # mlp for multi-label classification
 from keras.models import Sequential
 from keras.layers import Dense
-from sklearn.metrics import accuracy_score
 from keras.callbacks import EarlyStopping
 from keras.layers import Dropout
 import os
-from sklearn.metrics import accuracy_score
-from sklearn.metrics import multilabel_confusion_matrix
-from sklearn.metrics import classification_report
+
 import pickle
 os.environ['CUDA_VISIBLE_DEVICES'] = "0"
 
