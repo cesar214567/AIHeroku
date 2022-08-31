@@ -8,6 +8,7 @@ flask = "*"
 numpy = "*"
 gunicorn = "*"
 keras = "*"
+tensorflow = "*"
 
 [dev-packages]
 
