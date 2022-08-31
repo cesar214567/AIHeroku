@@ -1,11 +1,9 @@
 import pickle 
 from flask import Flask, render_template, request, session, Response, redirect, url_for
 import json
-from flask_cors import CORS
 import numpy as np
 
 app = Flask(__name__)
-CORS(app, supports_credentials=True)
 model = pickle.load(open("model.sav",'rb'))
 
 
