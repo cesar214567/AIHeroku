@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "491de20724848c7db4deb93900c90a95f4056af469f54f1fe70e9b2fa5ae4d30"
+            "sha256": "824501618642d4c9940dd84d461a96a03194e641f8d8c4c1bdff7403060aaa8b"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -21,7 +21,7 @@
                 "sha256:5d15f85b8cc859c6245bc9886ba664460ed96a6fee895416caa37d669ee74a9a",
                 "sha256:f568809938c49abbda89826223c992b630afd23c638160ad7840cfe347710d97"
             ],
-            "markers": "python_version >= '3.6'",
+            "markers": "python_full_version >= '3.6.0'",
             "version": "==1.2.0"
         },
         "astunparse": {
@@ -44,7 +44,7 @@
                 "sha256:84c85a9078b11105f04f3036a9482ae10e4621616db313fe045dd24743a0820d",
                 "sha256:fe86415d55e84719d75f8b69414f6438ac3547d2078ab91b67e779ef69378412"
             ],
-            "markers": "python_version >= '3.6'",
+            "markers": "python_full_version >= '3.6.0'",
             "version": "==2022.6.15"
         },
         "charset-normalizer": {
@@ -52,7 +52,7 @@
                 "sha256:5a3d016c7c547f69d6f81fb0db9449ce888b418b5b9952cc5e6e66843e9dd845",
                 "sha256:83e9a75d1911279afd89352c68b45348559d1fc0506b054b346651b5e7fee29f"
             ],
-            "markers": "python_version >= '3.6'",
+            "markers": "python_full_version >= '3.6.0'",
             "version": "==2.1.1"
         },
         "click": {
@@ -107,7 +107,7 @@
                 "sha256:3f2a6e802eebbb6fb736a370fbf3b055edcb6b52878bf2f26330b5e041316c73",
                 "sha256:a90a072f6993f2c327067bf65270046384cda5a8ecb20b94ea9a687f1f233a7a"
             ],
-            "markers": "python_version >= '3.6'",
+            "markers": "python_full_version >= '3.6.0'",
             "version": "==0.4.6"
         },
         "google-pasta": {
@@ -167,7 +167,7 @@
                 "sha256:f89de64d9eb3478b188859214752db50c91a749479011abd99e248550371375f",
                 "sha256:fcd5d932842df503eb0bf60f9cc35e6fe732b51f499e78b45234e0be41b0018d"
             ],
-            "markers": "python_version >= '3.6'",
+            "markers": "python_full_version >= '3.6.0'",
             "version": "==1.47.0"
         },
         "gunicorn": {
@@ -358,7 +358,7 @@
                 "sha256:23a8208d75b902797ea29fd31fa80a15ed9dc2c6c16fe73f5d346f83f6fa27a2",
                 "sha256:6db33440354787f9b7f3a6dbd4febf5d0f93758354060e802f6c06cb493022fe"
             ],
-            "markers": "python_version >= '3.6'",
+            "markers": "python_full_version >= '3.6.0'",
             "version": "==3.2.0"
         },
         "opt-einsum": {
@@ -374,7 +374,7 @@
                 "sha256:dd47c42927d89ab911e606518907cc2d3a1f38bbd026385970643f9c5b8ecfeb",
                 "sha256:ef103e05f519cdc783ae24ea4e2e0f508a9c99b2d4969652eed6a2e1ea5bd522"
             ],
-            "markers": "python_version >= '3.6'",
+            "markers": "python_full_version >= '3.6.0'",
             "version": "==21.3"
         },
         "protobuf": {
@@ -474,7 +474,7 @@
                 "sha256:90260d9058e514786967344d0ef75fa8727eed8a7d2e43ce9f4bcf1b536174f7",
                 "sha256:e38464a49c6c85d7f1351b0126661487a7e0a14a50f1675ec50eb34d4f20ef21"
             ],
-            "markers": "python_version >= '3.6'",
+            "markers": "python_full_version >= '3.6.0'",
             "version": "==4.9"
         },
         "setuptools": {
@@ -497,7 +497,7 @@
             "hashes": [
                 "sha256:baa727f791776f9e5841d347127720ceed4bbd59c36b40604b95fb2ae6029276"
             ],
-            "markers": "python_version >= '3.6'",
+            "markers": "python_full_version >= '3.6.0'",
             "version": "==2.9.1"
         },
         "tensorboard-data-server": {
@@ -506,7 +506,7 @@
                 "sha256:d8237580755e58eff68d1f3abefb5b1e39ae5c8b127cc40920f9c4fb33f4b98a",
                 "sha256:fa8cef9be4fcae2f2363c88176638baf2da19c5ec90addb49b1cde05c95c88ee"
             ],
-            "markers": "python_version >= '3.6'",
+            "markers": "python_full_version >= '3.6.0'",
             "version": "==0.6.1"
         },
         "tensorboard-plugin-wit": {
